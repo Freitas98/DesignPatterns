@@ -1,0 +1,146 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MainApp/1.0.0": {
+        "dependencies": {
+          "Adapter": "1.0.0",
+          "Command": "1.0.0",
+          "Composite": "1.0.0",
+          "Decorator": "1.0.0",
+          "Factory": "1.0.0",
+          "Iterator": "1.0.0",
+          "Observer": "1.0.0",
+          "Singleton": "1.0.0",
+          "State": "1.0.0",
+          "Strategy": "1.0.0",
+          "TemplateMethod": "1.0.0"
+        },
+        "runtime": {
+          "MainApp.dll": {}
+        }
+      },
+      "Adapter/1.0.0": {
+        "runtime": {
+          "Adapter.dll": {}
+        }
+      },
+      "Command/1.0.0": {
+        "runtime": {
+          "Command.dll": {}
+        }
+      },
+      "Composite/1.0.0": {
+        "runtime": {
+          "Composite.dll": {}
+        }
+      },
+      "Decorator/1.0.0": {
+        "runtime": {
+          "Decorator.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "runtime": {
+          "Factory.dll": {}
+        }
+      },
+      "Iterator/1.0.0": {
+        "runtime": {
+          "Iterator.dll": {}
+        }
+      },
+      "Observer/1.0.0": {
+        "runtime": {
+          "Observer.dll": {}
+        }
+      },
+      "Singleton/1.0.0": {
+        "runtime": {
+          "Singleton.dll": {}
+        }
+      },
+      "State/1.0.0": {
+        "runtime": {
+          "State.dll": {}
+        }
+      },
+      "Strategy/1.0.0": {
+        "runtime": {
+          "Strategy.dll": {}
+        }
+      },
+      "TemplateMethod/1.0.0": {
+        "runtime": {
+          "TemplateMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Command/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Composite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iterator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "State/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

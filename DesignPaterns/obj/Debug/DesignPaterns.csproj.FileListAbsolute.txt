@@ -1,0 +1,2 @@
+C:\Users\joaob\source\repos\DesignPaterns\DesignPaterns\obj\Debug\DesignPaterns.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\DesignPaterns\obj\Debug\DesignPaterns.csproj.CoreCompileInputs.cache

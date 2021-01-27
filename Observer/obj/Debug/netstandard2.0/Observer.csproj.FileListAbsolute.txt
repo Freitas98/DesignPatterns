@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\DesignPaterns\Observer\bin\Debug\netstandard2.0\Observer.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Observer\bin\Debug\netstandard2.0\Observer.dll
+C:\Users\joaob\source\repos\DesignPaterns\Observer\bin\Debug\netstandard2.0\Observer.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Observer\obj\Debug\netstandard2.0\Observer.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Observer\obj\Debug\netstandard2.0\Observer.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Observer\obj\Debug\netstandard2.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Observer\obj\Debug\netstandard2.0\Observer.dll
+C:\Users\joaob\source\repos\DesignPaterns\Observer\obj\Debug\netstandard2.0\Observer.pdb

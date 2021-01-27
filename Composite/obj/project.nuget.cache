@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HD+vBXyMtoZsaYfTAkUUM9s6pml2Mc863caXf91PnXiHNWX8bFDFrIaAV6ndygZ5WvKZmxyMclOR8PzgLME4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Composite\\Composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

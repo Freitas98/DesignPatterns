@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\bin\Debug\netstandard2.0\Strategy.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\bin\Debug\netstandard2.0\Strategy.dll
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\bin\Debug\netstandard2.0\Strategy.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\obj\Debug\netstandard2.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\obj\Debug\netstandard2.0\Strategy.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\obj\Debug\netstandard2.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\obj\Debug\netstandard2.0\Strategy.dll
+C:\Users\joaob\source\repos\DesignPaterns\Strategy\obj\Debug\netstandard2.0\Strategy.pdb

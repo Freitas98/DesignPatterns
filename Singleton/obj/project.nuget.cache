@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWeLQ5g3PDkcShLP89Ps1wodwmMGwg9F+5UZ5YVSlIduaovSRcmc0TM8mVAzOPlhpHHZGe6kElRMR1mVGa9oLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

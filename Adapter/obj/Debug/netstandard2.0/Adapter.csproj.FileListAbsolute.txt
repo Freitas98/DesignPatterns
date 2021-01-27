@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\bin\Debug\netstandard2.0\Adapter.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\bin\Debug\netstandard2.0\Adapter.dll
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\bin\Debug\netstandard2.0\Adapter.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.dll
+C:\Users\joaob\source\repos\DesignPaterns\Adapter\obj\Debug\netstandard2.0\Adapter.pdb

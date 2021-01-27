@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\Factory\bin\Debug\netstandard2.0\Factory.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Factory\bin\Debug\netstandard2.0\Factory.dll
+C:\Users\joaob\source\repos\DesignPaterns\Factory\bin\Debug\netstandard2.0\Factory.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.dll
+C:\Users\joaob\source\repos\DesignPaterns\Factory\obj\Debug\netstandard2.0\Factory.pdb

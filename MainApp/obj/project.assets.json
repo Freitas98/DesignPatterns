@@ -1,0 +1,278 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Adapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Adapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Adapter.dll": {}
+        }
+      },
+      "Command/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Command.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Command.dll": {}
+        }
+      },
+      "Composite/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Composite.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Composite.dll": {}
+        }
+      },
+      "Decorator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Decorator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Decorator.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Factory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Factory.dll": {}
+        }
+      },
+      "Iterator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Iterator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Iterator.dll": {}
+        }
+      },
+      "Observer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Observer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Observer.dll": {}
+        }
+      },
+      "Singleton/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Singleton.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Singleton.dll": {}
+        }
+      },
+      "State/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/State.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/State.dll": {}
+        }
+      },
+      "Strategy/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Strategy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Strategy.dll": {}
+        }
+      },
+      "TemplateMethod/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TemplateMethod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TemplateMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adapter/1.0.0": {
+      "type": "project",
+      "path": "../Adapter/Adapter.csproj",
+      "msbuildProject": "../Adapter/Adapter.csproj"
+    },
+    "Command/1.0.0": {
+      "type": "project",
+      "path": "../Command/Command.csproj",
+      "msbuildProject": "../Command/Command.csproj"
+    },
+    "Composite/1.0.0": {
+      "type": "project",
+      "path": "../Composite/Composite.csproj",
+      "msbuildProject": "../Composite/Composite.csproj"
+    },
+    "Decorator/1.0.0": {
+      "type": "project",
+      "path": "../Decorator/Decorator.csproj",
+      "msbuildProject": "../Decorator/Decorator.csproj"
+    },
+    "Factory/1.0.0": {
+      "type": "project",
+      "path": "../Factory/Factory.csproj",
+      "msbuildProject": "../Factory/Factory.csproj"
+    },
+    "Iterator/1.0.0": {
+      "type": "project",
+      "path": "../Iterator/Iterator.csproj",
+      "msbuildProject": "../Iterator/Iterator.csproj"
+    },
+    "Observer/1.0.0": {
+      "type": "project",
+      "path": "../Observer/Observer.csproj",
+      "msbuildProject": "../Observer/Observer.csproj"
+    },
+    "Singleton/1.0.0": {
+      "type": "project",
+      "path": "../Singleton/Singleton.csproj",
+      "msbuildProject": "../Singleton/Singleton.csproj"
+    },
+    "State/1.0.0": {
+      "type": "project",
+      "path": "../State/State.csproj",
+      "msbuildProject": "../State/State.csproj"
+    },
+    "Strategy/1.0.0": {
+      "type": "project",
+      "path": "../Strategy/Strategy.csproj",
+      "msbuildProject": "../Strategy/Strategy.csproj"
+    },
+    "TemplateMethod/1.0.0": {
+      "type": "project",
+      "path": "../TemplateMethod/TemplateMethod.csproj",
+      "msbuildProject": "../TemplateMethod/TemplateMethod.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Adapter >= 1.0.0",
+      "Command >= 1.0.0",
+      "Composite >= 1.0.0",
+      "Decorator >= 1.0.0",
+      "Factory >= 1.0.0",
+      "Iterator >= 1.0.0",
+      "Observer >= 1.0.0",
+      "Singleton >= 1.0.0",
+      "State >= 1.0.0",
+      "Strategy >= 1.0.0",
+      "TemplateMethod >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joaob\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\MainApp\\MainApp.csproj",
+      "projectName": "MainApp",
+      "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\MainApp\\MainApp.csproj",
+      "packagesPath": "C:\\Users\\joaob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\MainApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\joaob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Adapter\\Adapter.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Adapter\\Adapter.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Command\\Command.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Command\\Command.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Composite\\Composite.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Composite\\Composite.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Decorator\\Decorator.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Decorator\\Decorator.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Factory\\Factory.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Factory\\Factory.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Iterator\\Iterator.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Iterator\\Iterator.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Observer\\Observer.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Observer\\Observer.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Singleton\\Singleton.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Singleton\\Singleton.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\State\\State.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\State\\State.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Strategy\\Strategy.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\Strategy\\Strategy.csproj"
+            },
+            "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\TemplateMethod\\TemplateMethod.csproj": {
+              "projectPath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\TemplateMethod\\TemplateMethod.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\bin\Debug\netstandard2.0\TemplateMethod.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\bin\Debug\netstandard2.0\TemplateMethod.dll
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\bin\Debug\netstandard2.0\TemplateMethod.pdb
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.dll
+C:\Users\joaob\source\repos\DesignPaterns\TemplateMethod\obj\Debug\netstandard2.0\TemplateMethod.pdb

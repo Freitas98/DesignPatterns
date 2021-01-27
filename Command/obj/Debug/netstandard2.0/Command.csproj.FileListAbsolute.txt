@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\DesignPaterns\Command\bin\Debug\netstandard2.0\Command.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Command\bin\Debug\netstandard2.0\Command.dll
+C:\Users\joaob\source\repos\DesignPaterns\Command\bin\Debug\netstandard2.0\Command.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Command\obj\Debug\netstandard2.0\Command.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Command\obj\Debug\netstandard2.0\Command.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Command\obj\Debug\netstandard2.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Command\obj\Debug\netstandard2.0\Command.dll
+C:\Users\joaob\source\repos\DesignPaterns\Command\obj\Debug\netstandard2.0\Command.pdb

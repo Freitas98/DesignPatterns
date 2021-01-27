@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\Composite\bin\Debug\netstandard2.0\Composite.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Composite\bin\Debug\netstandard2.0\Composite.dll
+C:\Users\joaob\source\repos\DesignPaterns\Composite\bin\Debug\netstandard2.0\Composite.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.dll
+C:\Users\joaob\source\repos\DesignPaterns\Composite\obj\Debug\netstandard2.0\Composite.pdb

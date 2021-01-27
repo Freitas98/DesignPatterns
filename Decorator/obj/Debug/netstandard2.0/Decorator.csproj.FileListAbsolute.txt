@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\bin\Debug\netstandard2.0\Decorator.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\bin\Debug\netstandard2.0\Decorator.dll
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\bin\Debug\netstandard2.0\Decorator.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.dll
+C:\Users\joaob\source\repos\DesignPaterns\Decorator\obj\Debug\netstandard2.0\Decorator.pdb

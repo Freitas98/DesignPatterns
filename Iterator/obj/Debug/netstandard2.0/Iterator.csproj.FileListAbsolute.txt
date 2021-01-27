@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\bin\Debug\netstandard2.0\Iterator.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\bin\Debug\netstandard2.0\Iterator.dll
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\bin\Debug\netstandard2.0\Iterator.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\obj\Debug\netstandard2.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\obj\Debug\netstandard2.0\Iterator.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\obj\Debug\netstandard2.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\obj\Debug\netstandard2.0\Iterator.dll
+C:\Users\joaob\source\repos\DesignPaterns\Iterator\obj\Debug\netstandard2.0\Iterator.pdb

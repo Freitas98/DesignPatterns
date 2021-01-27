@@ -1,0 +1,9 @@
+C:\Users\joaob\source\repos\DesignPaterns\State\bin\Debug\netstandard2.0\State.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\State\bin\Debug\netstandard2.0\State.dll
+C:\Users\joaob\source\repos\DesignPaterns\State\bin\Debug\netstandard2.0\State.pdb
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.csprojAssemblyReference.cache
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.dll
+C:\Users\joaob\source\repos\DesignPaterns\State\obj\Debug\netstandard2.0\State.pdb

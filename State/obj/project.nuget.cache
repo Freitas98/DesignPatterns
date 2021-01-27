@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6FPoKxMvP3DnIA853vehWbWLTSKGp17+dZ99Kj354uZAqHxE35gaLIp3vdwKgkrw/4YK1uBD1H9fEqMDnTJHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaob\\source\\repos\\DesignPaterns\\State\\State.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

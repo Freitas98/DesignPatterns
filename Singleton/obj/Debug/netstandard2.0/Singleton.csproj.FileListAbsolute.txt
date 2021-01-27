@@ -1,0 +1,8 @@
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\bin\Debug\netstandard2.0\Singleton.deps.json
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\bin\Debug\netstandard2.0\Singleton.dll
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\bin\Debug\netstandard2.0\Singleton.pdb
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\obj\Debug\netstandard2.0\Singleton.AssemblyInfo.cs
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\obj\Debug\netstandard2.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\obj\Debug\netstandard2.0\Singleton.dll
+C:\Users\joaob\source\repos\DesignPaterns\Singleton\obj\Debug\netstandard2.0\Singleton.pdb
